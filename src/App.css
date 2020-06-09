@@ -1,23 +1,36 @@
+ol, p, ul {
+  margin: 20px;
+}
+
 .app {
-  align-items: center;
-  background-color: lightblue;
-  display: flex;
-  justify-content: space-around;
-  min-height: 100vh;  
+  background-image: linear-gradient(to top,  #a18cd1 0%, #fbc2eb 100%);
+  /* background-color: blue; */
+  min-height: 100vh;
 }
 
-.tweet {
-  align-items: center;
-  background: white;
-  border-radius: 30px;
-  display: flex;
-  flex-direction: column;
-  height: 300px;
-  justify-content: space-around;
-  width: 300px;
+.recipes {
+  margin-left: 50px
 }
 
-.red {
-  color: red;
-  font-size: 50px;
+.search-form {
+  min-height: 10vh;
+
+  /*flex*/
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 10vh;
+}
+ 
+.search-bar {
+  border: none;
+  padding: 10px;
+  width: 50%;
+}
+
+.search-button {
+  background: lightcoral;
+  border: none;
+  color: white;
+  padding: 10px 20px;
 }
