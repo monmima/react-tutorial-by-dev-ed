@@ -1,6 +1,5 @@
 # react-tutorial-dev-ed
-Created from a (YouTube tutorial)[https://www.youtube.com/watch?v=U9T6YkEDkMo
-] for creating a recipe app by Dev Ed.
+Created from a [YouTube tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo) for creating a recipe app by Dev Ed.
 
 Thanks, Dev Ed!
 
